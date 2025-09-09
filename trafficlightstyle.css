@@ -1,0 +1,56 @@
+.trafficlight {
+	width: 200px;
+	height: 720px;
+	background-color: rgb(10, 10, 10);
+	border: 2px solid black;
+	border-radius: 20px;
+	margin-top: 15px;
+	margin-left: 650px;
+}
+
+#redsignal {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(255, 0, 0);
+	border-radius: 50%;
+	border: 5px solid rgb(187, 63, 63);
+	margin-left: 25px;
+	margin-top: 20px;
+}
+
+#greensignal {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(102, 255, 0);
+	border-radius: 50%;
+	border: 5px solid rgb(116, 166, 98);
+	margin-left: 25px;
+	margin-top: 100px;
+}
+
+#yellowsignal {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(255, 255, 0);
+	border-radius: 50%;
+	border: 5px solid rgb(238, 220, 91);
+	margin-left: 25px;
+	margin-top: 100px;
+}
+
+#stand1 {
+	width: 30px;
+	height: 400px;
+	background-color: rgb(10, 10, 10);
+	border: 2px solid black;
+	margin-left: 740px;
+}
+
+#stand2 {
+	width: 400px;
+	height: 30px;
+	background-color: rgb(10, 10, 10);
+	border: 2px solid black;
+	border-radius: 20px 20px 0px 0px;
+	margin-left: 550px;
+}
